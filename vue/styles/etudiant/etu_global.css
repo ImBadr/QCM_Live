@@ -1,0 +1,20 @@
+.main .session{
+    margin: 100px 40%;
+    width: 250px;
+}
+.tableau{
+    width: 70%;
+    position: relative;
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: 270px;
+    text-align: center;
+}
+.temporaire{
+    width: 60%;
+    margin: auto;
+    margin-top: 15%;
+}
+#dynamic_field{
+    border: none;
+}

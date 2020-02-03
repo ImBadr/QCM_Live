@@ -1,0 +1,36 @@
+/*ADD*/
+.add{
+    width: auto;
+    height: auto;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 16px 38px -12px rgba(0,0,0,.56), 0 4px 25px 0 rgba(0,0,0,.12), 0 8px 10px -5px rgba(0,0,0,.2);
+    margin: 100px 40%;
+    text-align: center;
+    padding: 10px 10px;
+    font-weight: bold;
+}
+
+.add a{
+    display: block;
+    padding: 5px 0;
+}
+
+#groupe{
+    display: block;
+    margin: 0  auto;
+}
+
+#input-text{
+    width: 95%;
+}
+
+.add .btn{
+    display: block;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+.alert{
+    margin-top: 20px;
+}

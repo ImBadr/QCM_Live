@@ -1,0 +1,46 @@
+
+
+.logo{
+    margin: 0 auto;
+    text-align: center;
+}
+
+.titre{
+    text-align: center;
+    font-weight: bold;
+}
+
+.titre a,.titre i{
+    margin: 0 2px;
+    font-size: 2em;
+    padding-bottom: 20px;
+}
+.red-txt{
+    color: #CF0A2C ; 
+}
+
+#descartes{
+    width: 25%;
+}
+.btn-red{
+    color: #fff;
+    background-color: #dc3545;
+    border-color: #dc3545;
+}
+.btn-red:hover{
+    color: #fff;
+    background-color: #c82333;
+    border-color: #c82333;
+}
+
+@media screen and (max-width: 990px) {
+    #descartes{
+        width: 45%;
+    }
+}
+#inputPassword{
+    margin-bottom: 10px;
+}
+#inputLogin{
+    margin-bottom: 10px;
+}

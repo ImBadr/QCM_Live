@@ -1,0 +1,13 @@
+.container{
+    position: absolute;
+    top: 100px;
+    left: 23%;
+    right: 23%;
+    text-align: center;
+}
+
+.table{
+    background-color: white !important;
+    padding: 15px;
+    border-radius: 10px;
+}

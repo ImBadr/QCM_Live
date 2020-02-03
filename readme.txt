@@ -1,2 +1,4 @@
-Les classes servent à protéger l'integrité des données grâce à des tests.
-Améliore la maintenabilité et réutilisabilité.
+Les classes servent Ã  protÃ©ger l'integritÃ© des donnÃ©es grÃ¢ce Ã  des tests.
+AmÃ©liore la maintenabilitÃ© et rÃ©utilisabilitÃ©.
+
+Le ModÃ¨le MVC a Ã©tÃ© utilisÃ© dans ce Projet
